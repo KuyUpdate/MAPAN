@@ -1,0 +1,6 @@
+{
+  "name": "MAPAN",
+  "description": "Manajemen Pencatatan Nilai - Aplikasi pencatatan nilai harian, ulangan, PR, aktivitas kelas, dan laporan perilaku siswa SD/MI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
